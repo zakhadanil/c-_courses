@@ -1,0 +1,16 @@
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\A_CharpCourse.exe
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\A_CharpCourse.deps.json
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\A_CharpCourse.runtimeconfig.json
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\A_CharpCourse.runtimeconfig.dev.json
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\A_CharpCourse.dll
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\ref\A_CharpCourse.dll
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Debug\net5.0\A_CharpCourse.pdb
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.AssemblyInfo.cs
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.dll
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\ref\A_CharpCourse.dll
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.pdb
+C:\Users\danya\source\repos\CSharpCourse\educational app\obj\Debug\net5.0\A_CharpCourse.genruntimeconfig.cache

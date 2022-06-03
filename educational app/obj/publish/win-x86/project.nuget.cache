@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SzGZxvUhCE/U2UgrmAR1kEZSnC6ucPQFASMgWGjVSBc80XaYKafaT5Ih7YVmyxAXAdj050Cs2EZ2LpE3GWvopw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danya\\source\\repos\\CSharpCourse\\educational app\\educational app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danya\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.15\\microsoft.netcore.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\danya\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\danya\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.15\\microsoft.aspnetcore.app.runtime.win-x86.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

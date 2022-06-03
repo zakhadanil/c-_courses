@@ -1,0 +1,5 @@
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Release\net5.0\publish\educational app.exe
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Release\net5.0\publish\educational app.dll
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Release\net5.0\publish\educational app.deps.json
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Release\net5.0\publish\educational app.runtimeconfig.json
+C:\Users\danya\source\repos\CSharpCourse\educational app\bin\Release\net5.0\publish\educational app.pdb

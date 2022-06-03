@@ -1,0 +1,16 @@
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.exe
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.deps.json
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.runtimeconfig.json
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.runtimeconfig.dev.json
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.dll
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\ref\B_ControlFlow.dll
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.pdb
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.AssemblyInfo.cs
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.dll
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\ref\B_ControlFlow.dll
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.pdb
+C:\Users\danya\source\repos\CSharpCourse\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.genruntimeconfig.cache
