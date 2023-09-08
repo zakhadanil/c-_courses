@@ -1,0 +1,16 @@
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\testirz_2.exe
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\testirz_2.deps.json
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\testirz_2.runtimeconfig.json
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\testirz_2.runtimeconfig.dev.json
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\testirz_2.dll
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\ref\testirz_2.dll
+D:\vs\c#\testirz_2\testirz_2\bin\Debug\net5.0\testirz_2.pdb
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.csproj.AssemblyReference.cache
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.AssemblyInfoInputs.cache
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.AssemblyInfo.cs
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.csproj.CoreCompileInputs.cache
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.dll
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\ref\testirz_2.dll
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.pdb
+D:\vs\c#\testirz_2\testirz_2\obj\Debug\net5.0\testirz_2.genruntimeconfig.cache
