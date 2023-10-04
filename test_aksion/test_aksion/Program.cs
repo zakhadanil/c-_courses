@@ -96,7 +96,7 @@ namespace test_aksion
         
         static void Main(string[] args)
         {
-            IList<Measures> measuringDevices=new List<Measures> { new Measures(0, 100, 5), new Measures(200, 400, 10), new Measures(300, 500, 15) };
+            IList<Measures> measuringDevices=new List<Measures> { new Measures(0, 100, 5), new Measures(200, 400, 10), new Measures(300, 500, 15) };    //Измерители с произвольными характерристиками, где 1-е значение нижня граница диапозона, 2-е верхнее значение, 3-е погрешность измерителя в процентах
             Tuple<string, string> rangeOfMeasures = input();
             Measures measuringDevice = find(rangeOfMeasures.Item1, rangeOfMeasures.Item2, measuringDevices);
 
