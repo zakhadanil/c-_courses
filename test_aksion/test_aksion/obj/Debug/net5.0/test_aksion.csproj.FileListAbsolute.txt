@@ -1,0 +1,16 @@
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.exe
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.deps.json
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.runtimeconfig.json
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.runtimeconfig.dev.json
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.dll
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\ref\test_aksion.dll
+C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.pdb
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.AssemblyInfo.cs
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.dll
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\ref\test_aksion.dll
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.pdb
+C:\Users\danya\source\repos\test_aksion\test_aksion\obj\Debug\net5.0\test_aksion.genruntimeconfig.cache

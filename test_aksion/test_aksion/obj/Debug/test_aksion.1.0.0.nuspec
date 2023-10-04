@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>test_aksion</id>
+    <version>1.0.0</version>
+    <authors>test_aksion</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.runtimeconfig.json" target="lib\net5.0\test_aksion.runtimeconfig.json" />
+    <file src="C:\Users\danya\source\repos\test_aksion\test_aksion\bin\Debug\net5.0\test_aksion.dll" target="lib\net5.0\test_aksion.dll" />
+  </files>
+</package>
